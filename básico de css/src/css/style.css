@@ -1,0 +1,27 @@
+/**h1 {
+  color: purple;
+  border-color: yellow;
+  border-width: 2px;
+  border-style: solid;
+
+  border: 2px dashed orange;
+}**/
+
+body {
+  background-image: url("https://s2.glbimg.com/o3IEB8vbwV1MIsws4k4t3I2Ny-s=/e.glbimg.com/og/ed/f/original/2020/05/26/falcon_heavy_demo_mission_40126461851.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.yellow-text {
+  font-size: 20px;
+  color: brown;
+}
+
+.big-text {
+  font-size: 50px;
+}
+
+#europa-text {
+  font-size: 10px;
+  color: blue;
+}
